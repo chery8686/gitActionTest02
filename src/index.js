@@ -7,7 +7,7 @@ function factorial(n) {
       throw new Error('n must be a positive integer');
   }
 
-  
+
   if( n === 0 ) {
       return 1;
   }
